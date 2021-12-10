@@ -1,0 +1,20 @@
+.ancho-form{
+    width: 40%;
+
+}
+
+body{
+    height: 400;
+    background-image: url(https://i.blogs.es/f7a1cd/fondo/1366_2000.jpeg);
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+.btn-primary{
+    height:50px; 
+    width:100px; 
+    margin: -20px -50px; 
+    position: relative;
+    top:50%; 
+    left:50%;
+}
